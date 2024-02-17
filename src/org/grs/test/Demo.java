@@ -10,5 +10,9 @@ public class Demo {
 	private void login() {
 		System.out.println("This is bala - Writig logic for login");
 	}
-
+	
+	private void addToKart() {
+		System.out.println("This is prashant- add to kart");
+		}
+	
 }
