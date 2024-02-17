@@ -6,5 +6,9 @@ public class Demo {
 		
 		System.out.println("This is a demo");
 	}
+	
+	private void login() {
+		System.out.println("This is bala - Writig logic for login");
+	}
 
 }
